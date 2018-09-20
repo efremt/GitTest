@@ -11,6 +11,7 @@ namespace GitRepoTest.Controllers
         public ActionResult Index()
         {
             // commewnt added from github
+            // Second change from github
             return View();
         }
 
